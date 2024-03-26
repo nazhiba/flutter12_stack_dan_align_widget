@@ -2,9 +2,9 @@
 
 A new Flutter project.
 <br>Penggunaan
-<br>Stack - menampilkan diatas layar di dalam aplikasi
+<br>Stack - Menumpuk widget
 <br>Align - ```alignment: Alignment(0,0.75),```
-<br>style: ButtonStyle - digunakan untuk menambahkan style di dalam button, dalam hal ini ```backgroundColor: MaterialStateProperty.all(Colors.amber)```
+<br>```style: ButtonStyle``` - digunakan untuk menambahkan style di dalam button, dalam hal ini ```backgroundColor: MaterialStateProperty.all(Colors.amber)```
 
 ## Getting Started
 
