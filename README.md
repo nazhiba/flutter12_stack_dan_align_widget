@@ -1,6 +1,10 @@
 # flutter12_stack_dan_align_widget
 
 A new Flutter project.
+Penggunaan
+Stack - menampilkan diatas layar di dalam aplikasi
+Align - ```alignment: Alignment(0,0.75),```
+style: ButtonStyle - digunakan untuk menambahkan style di dalam button, dalam hal ini ```backgroundColor: MaterialStateProperty.all(Colors.amber)```
 
 ## Getting Started
 
